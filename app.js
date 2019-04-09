@@ -1,7 +1,7 @@
 'use strict';
 
-import Viewport from "../shared/engine/Viewport.js/index.js";
-import Vector from "../shared/engine/Vector.js/index.js";
+import Viewport from "../shared/engine/Viewport.js";
+import Vector from "../shared/engine/Vector.js";
 
 class Map {
     constructor() {

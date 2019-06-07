@@ -1,4 +1,2 @@
 # raycasting
-3D world in vanilla JS using raycasting
-
-View it here: https://nilkun.github.io/raycasting/
+3D world in vanilla JS using raycasting. demo: https://nilkun.github.io/raycasting/
